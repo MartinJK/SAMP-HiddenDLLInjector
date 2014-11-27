@@ -1,4 +1,4 @@
-HiddenWin32DLLInjection
-=======================
+SA:MP Hidden DLL
+==============
 
-Hidden windows 32 DLL injection
+Injects a hidden dll into SA:MP (also anticheat client cannot detect it), works with SA:MP version 0.3D

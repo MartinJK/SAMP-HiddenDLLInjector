@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "main", "main\Main.vcxproj", "{EEE9AF20-C963-8B4D-E032-C5497C5AE77A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hack", "hack\hack.vcxproj", "{9F6E695E-0D10-E836-D648-AE302D11B3A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE9AF20-C963-8B4D-E032-C5497C5AE77A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEE9AF20-C963-8B4D-E032-C5497C5AE77A}.Debug|Win32.Build.0 = Debug|Win32
+		{EEE9AF20-C963-8B4D-E032-C5497C5AE77A}.Release|Win32.ActiveCfg = Release|Win32
+		{EEE9AF20-C963-8B4D-E032-C5497C5AE77A}.Release|Win32.Build.0 = Release|Win32
+		{9F6E695E-0D10-E836-D648-AE302D11B3A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F6E695E-0D10-E836-D648-AE302D11B3A3}.Debug|Win32.Build.0 = Debug|Win32
+		{9F6E695E-0D10-E836-D648-AE302D11B3A3}.Release|Win32.ActiveCfg = Release|Win32
+		{9F6E695E-0D10-E836-D648-AE302D11B3A3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
